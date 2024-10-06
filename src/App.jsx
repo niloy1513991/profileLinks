@@ -6,7 +6,7 @@ function App() {
       <div className="container flex-col h-[640px] w-[360px] bg-[#d1edff] mx-auto mt-3 rounded-xl">
         <div className="flex justify-center w-full">
           <img
-            src="/public/images/niloy.png"
+            src="/profileLinks/images/niloy.png"
             srcSet=""
             className="h-36 w-36 rounded-full border-[#32acf7] border-4 mt-4"
             alt="profile"
@@ -31,7 +31,7 @@ function App() {
             rel="noopener noreferrer"
           >
             <img
-              src="/public/images/facebook.svg"
+              src="/profileLinks/images/facebook.svg"
               target="_blank"
               alt=""
               className="h-10 w-auto my-auto ml-10"
@@ -49,7 +49,7 @@ function App() {
             rel="noopener noreferrer"
           >
             <img
-              src="/public/images/linkedin.svg"
+              src="/profileLinks/images/linkedin.svg"
               target="_blank"
               alt=""
               className="h-10 w-auto my-auto ml-10"
@@ -67,7 +67,7 @@ function App() {
             rel="noopener noreferrer"
           >
             <img
-              src="/public/images/gmail.svg"
+              src="/profileLinks/images/gmail.svg"
               target="_blank"
               alt=""
               className="h-10 w-auto my-auto ml-10"
@@ -85,7 +85,7 @@ function App() {
             rel="noopener noreferrer"
           >
             <img
-              src="/public/images/x.svg"
+              src="/profileLinks/images/x.svg"
               target="_blank"
               alt=""
               className="h-8 w-auto my-auto ml-20
@@ -104,7 +104,7 @@ function App() {
             rel="noopener noreferrer"
           >
             <img
-              src="/public/images/github.png"
+              src="/profileLinks/images/github.png"
               target="_blank"
               alt=""
               className="h-8 w-auto my-auto ml-20
