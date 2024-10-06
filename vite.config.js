@@ -5,4 +5,4 @@ import { defineConfig } from 'vite';
 export default defineConfig({
   base: '/profileLinks/', // Ensure this line is correct
   plugins: [react()],
-});
+})
