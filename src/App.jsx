@@ -23,7 +23,7 @@ function App() {
         <h4 className="text-sm text-center text-[#297eb3] font-medium mb-4">
           Web Developer - <span className="font-semibold">MERN</span>
         </h4>
-        <h1 className="facebook w-80 h-16 bg-[#b9dcff] rounded-xl flex mx-auto m-2">
+        <h1 className="facebook w-80 h-16 bg-[#b9dcff] rounded-xl flex mx-auto m-2 hover:bg-[#a7d1fc] active:bg-[#7bbbfb]">
           <a
             href="https://www.facebook.com/niloykumarmohonta000"
             className="flex"
@@ -41,7 +41,7 @@ function App() {
             </h4>
           </a>
         </h1>
-        <h1 className="linkedin w-80 h-16 bg-[#bce5fc] rounded-xl flex mx-auto m-2">
+        <h1 className="linkedin w-80 h-16 bg-[#bce5fc] rounded-xl flex mx-auto m-2 hover:bg-[#a3d9f8] active:bg-[#8ed6ff]">
           <a
             href="https://www.linkedin.com/in/niloy-kumar-mohonta-bb3367155/"
             className="flex"
@@ -59,7 +59,7 @@ function App() {
             </h4>
           </a>
         </h1>
-        <h1 className="gmail w-80 h-16 bg-[#ffddda] rounded-xl flex mx-auto m-2">
+        <h1 className="gmail w-80 h-16 bg-[#ffddda] rounded-xl flex mx-auto m-2 hover:bg-[#ffc8c3] active:bg-[#ffaaa2]">
           <a
             href="mailto:niloykumarmohonta@gmail.com"
             className="flex"
@@ -77,7 +77,7 @@ function App() {
             </h4>
           </a>
         </h1>
-        <h1 className="x w-80 h-16 bg-slate-100 rounded-xl flex mx-auto m-2">
+        <h1 className="x w-80 h-16 bg-[#f1f5f9] rounded-xl flex mx-auto m-2 hover:bg-[#dedfdf] active:bg-[#bdbdbd]">
           <a
             href="https://x.com/niloykmohonta"
             className="flex"
@@ -96,7 +96,7 @@ function App() {
             </h4>
           </a>
         </h1>
-        <h1 className="github w-80 h-16 bg-slate-200 rounded-xl flex mx-auto m-2">
+        <h1 className="github w-80 h-16 bg-[#e8eff9] rounded-xl flex mx-auto m-2 hover:bg-[#d7d7d7] active:bg-[#babec2]">
           <a
             href="https://github.com/niloy1513991"
             className="flex"
